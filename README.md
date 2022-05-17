@@ -2,7 +2,7 @@
 
 Image and Video Processing - Spring 2022 - Project
 
-For the results in the project refort please follow the directions:
+For the results in the project report please follow the directions:
 
 Deep Decoder results: DD-DIP/Deep_Decoder/DeepDecoder/supplement_DD/inpainting.ipynb
 
